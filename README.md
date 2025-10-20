@@ -33,13 +33,13 @@
 #### 🔹 Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 #### 🔹 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
 #### 🔹 Tools & Platforms
