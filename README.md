@@ -69,4 +69,4 @@
 
 ---
 
-⭐️ From [Nahid]([https://github.com/nahid-aiub](https://www.facebook.com/alamin.hosennahid/))
+⭐️ From [Nahid](https://www.facebook.com/alamin.hosennahid/)
