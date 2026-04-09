@@ -33,7 +33,7 @@
 #### 🔹 Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 #### 🔹 Mobile Development
@@ -42,10 +42,32 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
+### 🔹 Deployment & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase,render" />
+</p>
+
 #### 🔹 Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,postman,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Portfolio
+
+🌐 **Live Portfolio:**  
+👉 https:https://portfolio-v1-lime-one.vercel.app/
+
+💡 Built with modern technologies and deployed on **Vercel**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlAminNahid&theme=tokyonight" />
 </p>
 
 ---
