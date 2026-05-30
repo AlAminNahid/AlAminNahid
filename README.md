@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Full-Stack Developer | Problem Solver | AIUB CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Computer+Science+%26+Engineering+Student;Passionate+about+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%26+Backend+Engineer;Computer+Science+%26+Engineering+Student;Passionate+about+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 * 🎓 Currently studying **Computer Science & Engineering at AIUB**
 * 🌱 Exploring **Software Development, Web Development, Mobile Development, and Problem Solving**
-* 💡 Passionate about building **scalable full-stack and mobile applications**
+* 💡 Passionate about building **scalable full-stack, mobile, and AI-powered applications**
 * ⚡ Fun fact: I love turning **complex problems** into simple, beautiful solutions.
 
 ---
@@ -27,7 +27,13 @@
 #### 🔹 Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nest,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nest,fastapi,dotnet,php" />
+</p>
+
+#### 🔹 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 #### 🔹 Databases
@@ -42,15 +48,16 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
-### 🔹 Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase,render" />
+#### 🔹 Deployment & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase,cloudflare" />
 </p>
 
 #### 🔹 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,vscode,linux" />
 </p>
 
 ---
@@ -58,7 +65,7 @@
 ## 🚀 Featured Portfolio
 
 🌐 **Live Portfolio:**  
-👉 https:https://portfolio-v1-lime-one.vercel.app/
+👉 [portfolio-v1-lime-one.vercel.app](https://portfolio-v1-lime-one.vercel.app/)
 
 💡 Built with modern technologies and deployed on **Vercel**
 
