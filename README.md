@@ -10,24 +10,37 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science & Engineering student at **American International University-Bangladesh (AIUB)**
-* 💼 **Software Engineering Intern at Auradev**
-* 🚀 Contributing to **grantOS**, an AI-powered grant management platform
-* 🌱 Currently expanding my expertise in **Full-Stack Development, Cloud Infrastructure, and AI-Integrated Applications**
-* 🔍 Passionate about designing scalable systems and solving real-world problems through software
-* 🤝 Enjoy collaborating in agile teams, participating in code reviews, and building impactful products
-* ⚡ Strong interest in Software Engineering, Backend Development, and System Design
+I'm a Computer Science & Engineering student at AIUB and a Software Engineering Intern at Auradev.
+
+I enjoy building scalable web applications, designing backend systems, and solving real-world problems through software. My primary focus is Full-Stack Development, AI-integrated applications, and modern software engineering practices.
+
+Currently, I contribute to production-grade software while continuously improving my skills in system design, cloud technologies, and backend architecture.
 
 ---
 
-## 🚀 Current Focus
+## 💼 Professional Experience
 
-* Full-Stack Development with **Next.js**, **React**, and **TypeScript**
-* Backend Development with **FastAPI**, **NestJS**, and **.NET**
-* Database Design using **PostgreSQL**, **MySQL**, and **MongoDB**
-* Cloud & Deployment Technologies
-* AI-Powered Application Development
-* Data Structures & Algorithms
+Software Engineering Intern | Auradev
+
+🌐 https://www.auradev.co.uk/
+
+June 2026 – Present
+
+* Contributing to the development of grantOS, an AI-powered grant management platform
+* Building production-ready features using Next.js, TypeScript, and FastAPI
+* Collaborating with engineers, designers, and product stakeholders in agile environments
+* Participating in code reviews, debugging, testing, and sprint planning
+* Following modern software engineering practices using GitHub workflows
+
+---
+
+## 🔥 What I'm Currently Building
+
+* 🚀 Contributing to grantOS at Auradev
+* 📱 Developing MessMaster Mobile using Kotlin & XML
+* 🤖 Exploring AI-powered SaaS applications
+* ⚙️ Improving backend architecture and system design skills
+* 📚 Practicing Data Structures & Algorithms
 
 ---
 
@@ -48,7 +61,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,dotnet,php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,nestjs,fastapi,dotnet" />
 </p>
 
 ### Databases
@@ -80,20 +93,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
-
----
-
-## 💼 Professional Experience
-
-### Software Engineering Intern | Auradev
-
-**June 2026 – Present**
-
-* Contributing to the development of **grantOS**, an AI-powered grant management platform
-* Developing production-grade features using **Next.js**, **TypeScript**, and **FastAPI**
-* Participating in sprint planning, code reviews, testing, and debugging
-* Collaborating with engineering, product, and design teams
-* Working within agile workflows using GitHub and modern development practices
 
 ---
 
