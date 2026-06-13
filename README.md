@@ -55,7 +55,7 @@ June 2026 – Present
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
 ### Backend
