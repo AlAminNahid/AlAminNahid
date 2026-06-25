@@ -3,44 +3,26 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AIUB CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+at+Auradev;Full-Stack+Developer;Next.js+%7C+FastAPI+%7C+TypeScript;Building+AI-Powered+Applications;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+FastAPI+%7C+TypeScript;Building+AI-Powered+Applications;Passionate+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student at AIUB and a Software Engineering Intern at Auradev.
+I'm a Computer Science & Engineering student at AIUB with a passion for building scalable software and solving real-world problems.
 
-I enjoy building scalable web applications, designing backend systems, and solving real-world problems through software. My primary focus is Full-Stack Development, AI-integrated applications, and modern software engineering practices.
-
-Currently, I contribute to production-grade software while continuously improving my skills in system design, cloud technologies, and backend architecture.
+My interests lie in Full-Stack Development, backend engineering, AI-integrated applications, and modern software engineering practices. I enjoy turning ideas into reliable, user-focused products while continuously improving my knowledge of system design, cloud technologies, and software architecture.
 
 ---
 
-## 💼 Professional Experience
+## 🔥 What I'm Currently Working On
 
-Software Engineering Intern | Auradev
-
-🌐 https://www.auradev.co.uk/
-
-June 2026 – Present
-
-* Contributing to the development of grantOS, an AI-powered grant management platform
-* Building production-ready features using Next.js, TypeScript, and FastAPI
-* Collaborating with engineers, designers, and product stakeholders in agile environments
-* Participating in code reviews, debugging, testing, and sprint planning
-* Following modern software engineering practices using GitHub workflows
-
----
-
-## 🔥 What I'm Currently Building
-
-* 🚀 Contributing to grantOS at Auradev
-* 📱 Developing MessMaster Mobile using Kotlin & XML
-* 🤖 Exploring AI-powered SaaS applications
-* ⚙️ Improving backend architecture and system design skills
-* 📚 Practicing Data Structures & Algorithms
+- 🚀 Building full-stack web applications
+- 📱 Developing Android applications using Kotlin
+- 🤖 Exploring AI-powered applications and intelligent systems
+- ⚙️ Learning backend architecture and system design
+- 📚 Practicing Data Structures & Algorithms
 
 ---
 
@@ -96,7 +78,7 @@ June 2026 – Present
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 🔗 https://portfolio-v1-lime-one.vercel.app/
 
