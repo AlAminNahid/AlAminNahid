@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f6b2000-7cbd-450b-9abd-749463d0e114" /><h1 align="center">Hi 👋, I'm Al Amin Hossain Nahid</h1>
+<h1 align="center">Hi 👋, I'm Al Amin Hossain Nahid</h1>
 
 <h3 align="center">Software Engineer | Full-Stack Developer | AIUB CSE Student</h3>
 
@@ -80,7 +80,7 @@ My interests lie in Full-Stack Development, backend engineering, AI-integrated a
 
 ## 🌐 Personal Portfolio
 
-🔗 [https://portfolio-v1-lime-one.vercel.app/](https://alamin-nahid.is-a.dev/)
+🔗 https://alamin-nahid.is-a.dev
 
 ---
 
