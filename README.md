@@ -52,6 +52,12 @@ My interests lie in Full-Stack Development, backend engineering, AI-integrated a
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
+### ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
+
 ### Mobile Development
 
 <p>
