@@ -3,26 +3,48 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AIUB CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+FastAPI+%7C+TypeScript;Building+AI-Powered+Applications;Passionate+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F72AF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+AI-Powered+Applications;Passionate+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student at AIUB with a passion for building scalable software and solving real-world problems.
+I'm a Computer Science & Engineering student at AIUB who works across the whole stack — designing the interface, building the API behind it, and modelling the data underneath.
 
-My interests lie in Full-Stack Development, backend engineering, AI-integrated applications, and modern software engineering practices. I enjoy turning ideas into reliable, user-focused products while continuously improving my knowledge of system design, cloud technologies, and software architecture.
+My interests are full-stack development, backend engineering, and AI-integrated applications. I build native Android apps in Kotlin and am currently expanding into React Native for cross-platform work. My research interests are Machine Learning, Natural Language Processing, and Large Language Models.
 
 ---
 
 ## 🔥 What I'm Currently Working On
 
-- 🚀 Building full-stack web applications
-- 📱 Developing Android applications using Kotlin
-- 🤖 Exploring AI-powered applications and intelligent systems
-- ⚙️ Learning backend architecture and system design
+- 🚀 Building full-stack web applications with Next.js, NestJS, and FastAPI
+- 📱 Developing native Android applications in Kotlin
+- 📲 Learning React Native for cross-platform mobile development
+- 🤖 Integrating LLM APIs into real product features
+- 🧠 Training deep learning models for image classification with TensorFlow/Keras
 - 📚 Practicing Data Structures & Algorithms
+
+---
+
+## 📄 Publications & Research
+
+**Accepted**
+**Intelligent Waste Classification for Sustainable Urban Development: A MobileNetV3-Based Deep Learning Approach Using the BDWaste Dataset**
+Al Amin Hossain Nahid, Ferdus Hossain, Tariful Islam Fahim, Salman Zzoha
+International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII 2026)
+[📂 Code](https://github.com/AlAminNahid/Intelligent_Waste_Classification_MobileNetV3)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**MessMasterApp**](https://github.com/AlAminNahid/MessMasterApp) | Native Android app for shared-living meal tracking, expenses, and utility billing | Kotlin, MVVM, Retrofit |
+| [**MessMasterApp_Backend**](https://github.com/AlAminNahid/MessMasterApp_Backend) | REST API with role-based JWT auth, rate limiting, and a normalized relational schema | NestJS, PostgreSQL, TypeORM |
+| [**AI Chat**](https://github.com/AlAminNahid/ai-chat) · [🔗 Live](https://ai-aluboss-chat.vercel.app/) | Full-stack AI chat with persistent multi-conversation history | Next.js, Prisma, Gemini API |
+| [**Portfolio**](https://github.com/AlAminNahid/portfolio-v1) · [🔗 Live](https://alamin-nahid.is-a.dev) | Personal portfolio site | Next.js, TypeScript, Tailwind |
 
 ---
 
@@ -31,7 +53,7 @@ My interests lie in Full-Stack Development, backend engineering, AI-integrated a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,python,javascript,typescript,kotlin" />
 </p>
 
 ### Frontend
@@ -46,34 +68,28 @@ My interests lie in Full-Stack Development, backend engineering, AI-integrated a
   <img src="https://skillicons.dev/icons?i=php,nodejs,nestjs,fastapi,dotnet" />
 </p>
 
-### Databases
+### Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### ORM
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
 </p>
 
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,firebase,supabase,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,vercel,linux" />
 </p>
 
 ### Tools
@@ -108,7 +124,7 @@ My interests lie in Full-Stack Development, backend engineering, AI-integrated a
   <a href="https://github.com/AlAminNahid">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/al-amin-nahid-876858193">
+  <a href="https://www.linkedin.com/in/al-amin-hossain-nahid-876858193/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:robin.nahid123@gmail.com">
