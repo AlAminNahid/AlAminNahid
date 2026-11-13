@@ -38,7 +38,7 @@ I'm still learning a lot and I like understanding how things work under the hood
 |---|---|---|
 | [Relgari](https://github.com/AlAminNahid/relgari) ([live](https://relgari.vercel.app/)) | A bilingual train ticket booking concept inspired by Bangladesh Railway. In progress. | Next.js, NestJS, Prisma, PostgreSQL |
 | [AI Chat](https://github.com/AlAminNahid/ai-chat) ([live](https://ai-nova-chat.vercel.app/)) | A multi-conversation AI chat app with persistent history and streamed responses. | Next.js, Prisma, PostgreSQL, Gemini |
-| [Nirapod Fine]([https://github.com/AxisAkash/Nirapod_Fine](https://github.com/AxisAkash/Nirapod_Fine..)) | My thesis project: checks Bangladeshi traffic fine receipts against Road Transport Act 2018 rules. | Next.js, FastAPI, PostgreSQL, Hardhat |
+| [Nirapod Fine](https://github.com/AxisAkash/Nirapod_Fine..) ([live](https://github.com/AxisAkash/Nirapod_Fine..)) | My thesis project: checks Bangladeshi traffic fine receipts against Road Transport Act 2018 rules. | Next.js, FastAPI, PostgreSQL, Hardhat |
 
 ---
 
