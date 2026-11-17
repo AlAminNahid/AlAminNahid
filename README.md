@@ -74,7 +74,7 @@ I'm still learning a lot and I like understanding how things work under the hood
 </p>
 
 <p align="center">
-  <a href="https://alamin-nahid.is-a.dev">
+  <a href="https://alamin-nahid.xyz/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-3F72AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
